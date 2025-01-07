@@ -9,3 +9,5 @@
 <p>- C#</p>
 <p>- .NET Framework</p>
 <p>- MYSQL</p>
+<p>- postgres</p>
+
