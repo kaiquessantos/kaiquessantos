@@ -1,13 +1,12 @@
-<code>Console.WriteLine("Esse é o meu GitHub")</code>
+<code>System.out.println("Esse é o meu GitHub")</code>
 <hr>
 
 <p>Estudante de Engenharia de Software na <a href="https://www.unicesumar.edu.br/homev2/" target="_blank">UniCesumar</a>.</p>
 <p>Atualmente estudando e desenvolvendo meus projetos com: </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres)](https://skillicons.dev)
-
-<p>- C#</p>
-<p>- .NET Framework</p>
-<p>- MYSQL</p>
-<p>- Postgre</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,idea" />
+  </a>
+</p>
 
